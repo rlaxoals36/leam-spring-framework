@@ -2,8 +2,8 @@ package com.in28minutes.leamspringframework.game;
 
 public class GameRunner {
     //MarioGame game;
-    SuperContraGame game;
-    public GameRunner(SuperContraGame game) {
+    GamingConsole game;
+    public GameRunner(GamingConsole game) {
         this.game = game;
     }
 
