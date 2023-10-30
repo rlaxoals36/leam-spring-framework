@@ -1,10 +1,6 @@
-package com.in28minutes.leamspringframework;
+package com.in28minutes.leamspringframework.game;
 
-import com.in28minutes.leamspringframework.game.GameRunner;
-import com.in28minutes.leamspringframework.game.GamingConsole;
-import com.in28minutes.leamspringframework.game.MarioGame;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 

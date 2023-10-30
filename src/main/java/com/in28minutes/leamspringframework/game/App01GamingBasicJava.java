@@ -1,4 +1,4 @@
-package com.in28minutes.leamspringframework;
+package com.in28minutes.leamspringframework.game;
 
 import com.in28minutes.leamspringframework.game.GameRunner;
 import com.in28minutes.leamspringframework.game.MarioGame;
