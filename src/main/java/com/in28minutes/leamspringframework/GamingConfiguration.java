@@ -1,5 +1,5 @@
 package com.in28minutes.leamspringframework;
-
+/*
 import com.in28minutes.leamspringframework.game.GameRunner;
 import com.in28minutes.leamspringframework.game.GamingConsole;
 import com.in28minutes.leamspringframework.game.MarioGame;
@@ -20,3 +20,4 @@ public class GamingConfiguration {
         return gameRunner;
     }
 }
+ */
